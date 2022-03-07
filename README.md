@@ -55,5 +55,5 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggeils&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <br>
-  <b>Note:</b> Top languages is only based on percentage of the code in which the language is used, and is not a reflection of my skill level or experience.
+  <b>Note:</b> Most used languages is only based on percentage of the code in which the language is used, and is not a reflection of my skill level or experience.
   </p>
