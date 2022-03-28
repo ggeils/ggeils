@@ -4,7 +4,7 @@
 </p>
 
 ## About me!
-- :student: I am currently enrolled at the `UT Austin Coding Bootcamp`
+- :student: Recent graduate of the `UT Austin Coding Bootcamp`
 - :computer: I am seeking a job in `Software Engineering`
 - :page_facing_up: [MY RESUME](https://docs.google.com/document/d/1sMcFKRksegM2vAOHV2uQZ3LSkeqJhqRIS-QmSYvafVw/edit?usp=sharing)
 
